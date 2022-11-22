@@ -27,7 +27,7 @@
   "homepage": "https://github.com/TyGooch/amazon-giveaway-bot#readme",
   "devDependencies": {
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5",
+    "webpack-cli": "^3.3.12",
     "webpack-userscript": "^2.3.1",
     "webpack-dev-server": "^3.7.2"
   }
